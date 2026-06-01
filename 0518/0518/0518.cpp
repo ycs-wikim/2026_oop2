@@ -72,12 +72,27 @@ public:
         /// 인스턴스가 있을지 없을지 알 수 없기 때문에.
         //printf("%p\n", this);
     }
+가 함수 원형 뒤에 존재해야 const 멤버 함수가 된다.
 
-    /// const 멤버 함수 : 함수 내부에서 멤버 변수의 값을 변경할 수 없다!
-    ///         모든! 멤버 변수는 const 멤버 함수 내부에서 읽기 전용이 된다.
-    ///         cosnt 키워드가 함수 원형 뒤에 존재해야 const 멤버 함수가 된다.
-    const int test(int param) const
     {
+
+
+
+
+
+
+        asfdkljfaklsjlakfsd
+
+            s
+            df
+            s
+            f
+            sf
+            sfd
+
+            sdf
+            sdf
+
         /// 매개변수와 내부에서 선언된 변수의 값 변경은 문제 없음!
         int kkk = 0;
         int array[100];
